@@ -1,0 +1,42 @@
+body {
+
+    background-color:lightgray ;
+    background-image: url(images/home-bg.jpg) ;
+}
+.container{
+
+    background-color: white;
+    box-shadow: 3px 3px 5px black;
+}
+   
+
+
+
+
+form {
+    position: absolute;
+    max-width: 400px;
+    top: 40%;
+    transform: translateX(750px);
+
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 20px;
+    color: white;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+#message {
+
+    display: flex;
+    justify-content: center;
+}

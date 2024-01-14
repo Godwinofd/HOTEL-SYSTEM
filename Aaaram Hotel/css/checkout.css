@@ -1,0 +1,60 @@
+#contain {
+	display: flex;
+	justify-content: center;
+	transform: translateX(100px);
+}
+
+body {
+
+    background-color:lightgray ;
+}
+
+#header  {
+    display: flex;
+    justify-content: center;
+}
+
+#roomDetails {
+
+    display: flex;
+    justify-content: center;
+}
+
+#roomImg {
+
+    display: flex;
+    justify-content: center;
+}
+
+#standardRoomImg {
+    width:900px;
+}
+
+
+#roomAvailabillity {
+
+    display: flex;
+    justify-content: center;
+}
+
+#dates {
+
+    display: flex;
+    justify-content: center;
+}
+
+#executiveRoomImg {
+    width:900px;
+    height: 700px;
+}
+
+#familyRoomImg {
+    width:900px;
+    height: 700px;
+}
+
+
+#password {
+	width: 350px;
+	border-radius: 5px;
+}

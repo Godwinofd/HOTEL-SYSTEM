@@ -1,0 +1,31 @@
+body {
+
+    background-color:lightgray ;
+}
+
+#signinimg {
+	width: 100px;
+	height: 100px;
+}
+
+#email {
+
+	width: 400px;
+}
+
+#password {
+	width: 400px;
+}
+
+#button {
+	width: 400px;
+}
+
+#main {
+
+	display: flex;
+	flex-direction: column;
+	transform: translateX(750px)translateY(200px);
+
+	
+}

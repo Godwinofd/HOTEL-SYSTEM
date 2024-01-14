@@ -1,0 +1,68 @@
+body {
+
+    background-color:lightgray ;
+}
+
+#roomOptions {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    transform: translateY(-10px)translateX(-25px);
+
+
+
+}
+
+
+#standardRoomImg {
+    width: 350px;
+    height: 350px;
+    border-radius: 8px;
+    
+
+}
+
+#familyRoomImg {
+
+    border-radius: 8px;
+    width: 350px;
+    height: 350px;
+    
+}
+
+
+#executiveRoomImg {
+
+    border-radius: 8px;
+    width: 350px;
+    height: 350px;
+   
+}
+
+
+
+
+#tr {
+    background-color: white;
+    box-shadow: 3px;
+    height: 150px;
+    transform: translateY(250px);
+}
+
+#standardBook{
+
+    width: 400px;
+    transform: translateX(68px);
+}
+
+#familyBook{
+
+    width: 400px;
+
+    transform: translateX(320px)translateY(-255px);
+}
+
+#executiveBook{
+    transform: translateX(440px)translateY(-382px);
+}
